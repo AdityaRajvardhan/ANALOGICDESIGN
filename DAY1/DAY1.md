@@ -1,6 +1,6 @@
-# Analog and Mixed-Signal IC Design – Class Work Notes
+# Analog and Mixed-Signal IC Design – DAY1
 
-This repository contains class work notes and conceptual understanding gained during the
+This repository contains class work notes
 Five Days Hands-on Training Program on **Analog IC Design and Layout Considerations Using Cadence Tool**.
 
 ---
@@ -110,6 +110,26 @@ This combined analysis is referred to as **PVT analysis** and is essential for p
   - Simulation setup
   - Running analyses
   - Observing voltage and gain characteristics
+
+ # Circuit 1 : CS amplifier 
+<img width="185" height="260" alt="image" src="https://github.com/user-attachments/assets/a40e7f81-5070-430c-b1de-25e109f039e0" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b16237f2-794b-4bee-b2a0-99f585572224" />
+
+# DC Analysis 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a04b9648-76b1-45bd-9052-0d94ff7753e8" />
+
+# DC Sweep wrt Rd
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0b87f07f-58cf-4814-a09c-b9b01565ead4" />
+
+# DC Sweep wrt Vin
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d00c843a-599d-485d-b72c-aca72b38ed08" />
+
+# Transient Analysis 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/91fdb8a0-51e3-4ace-a36b-be0fee72aa91" />
+
+# Parametric analysis
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e41a1b72-d4b7-4754-a555-1be5138d661d" />
 
 ---
 
